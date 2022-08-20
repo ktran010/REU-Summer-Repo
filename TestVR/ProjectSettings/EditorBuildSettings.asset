@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Kat_Challenge/Challenge.unity
+    guid: a9008c6cf60916f449993294374cf68c
+  - enabled: 0
+    path: Assets/Kat_Challenge/StartGame.unity
+    guid: bb3f53bf6105f6e478a6771b559cfe35
+  - enabled: 1
+    path: Assets/ReadFiles/fileReader.unity
+    guid: dd6fe6092065cf649a5ff9a93d0c3d0a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: c1325817042a0844a926573fbe889432, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 905bcc0354605e44585419d1e33b8a00, type: 2}

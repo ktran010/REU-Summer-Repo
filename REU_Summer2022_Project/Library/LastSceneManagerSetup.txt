@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Kat_Challenge/Challenge.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
